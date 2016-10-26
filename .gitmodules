@@ -1,0 +1,3 @@
+[submodule "xennet"]
+	path = xennet
+	url = https://github.com/cnplab/xennet.git
